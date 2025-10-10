@@ -5,3 +5,7 @@
 ``` python
 print("Welcome to Cybersecurity !")
 ```
+
+- [ ] Watched my favorite Hacker
+- [ ] Read Kevin Mitnick Books
+- [ ] Learned my ISC² Courses
